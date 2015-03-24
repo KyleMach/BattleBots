@@ -35,6 +35,6 @@ Icon
 .Spotlight-V100
 .Trashes
 
-BattleBots\*.unityproj
-BattleBots\*.csproj
+*.unityproj
+*.csproj
 BattleBots\Library\
