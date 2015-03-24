@@ -32,5 +32,9 @@ Icon
 ._*
 
 # Files that might appear on external disk
-Library
-Temp
+.Spotlight-V100
+.Trashes
+*.unityproj
+BattleBots/
+*.csproj
+BattleBots/

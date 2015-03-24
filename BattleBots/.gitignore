@@ -33,3 +33,7 @@ Icon
 
 # Files that might appear on external disk
 Raw
+./Temp
+./Library
+*.csproj
+*.unityproj
