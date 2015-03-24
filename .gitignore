@@ -37,3 +37,4 @@ Icon
 *.unityproj
 Temp
 Library
+*.csproj
