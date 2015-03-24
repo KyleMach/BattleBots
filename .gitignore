@@ -37,4 +37,4 @@ Icon
 
 *.unityproj
 *.csproj
-BattleBots/Library
+BattleBots\Library\
